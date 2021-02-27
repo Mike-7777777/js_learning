@@ -7,7 +7,3 @@ So it will not include all basic stuffs like comment use of if statement, for lo
 
 Hope this repository could help you learn js more efficiently by reading the code.
 
-category
-    0. basic
-    1. date
-    2. logic
